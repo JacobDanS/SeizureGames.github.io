@@ -1,3 +1,5 @@
-body {
-    font-family: sans-serif;
+@font-face {
+    font-family: 'paintball';
+    src: url('paintball.ttf')
+         format('truetype');
 }
