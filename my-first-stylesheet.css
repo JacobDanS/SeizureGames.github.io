@@ -1,5 +1,4 @@
 @font-face {
-    font-family: 'paintball';
-    src: url('nanonauts/paintball.ttf')
-        format('truetype');
+    font-family: 'paintball'; /*a name to be used later*/
+    src: url('https://jacobdans.github.io/nanonauts/paintball.ttf'); /*URL to font*/
 }
